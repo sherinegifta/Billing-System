@@ -1,8 +1,5 @@
 # Medical Billing-System
-The “Medical shop billing system” has been developed to override the problems prevailing in the practicing manual system. 
-This program is supported to eliminate and in some cases reduce the hardships faced by this existing system.
-The purpose of Medical shop billing system is to automate the existing manual system by the help of computerized equipments and 
-full-fledged computer software thereby fulfilling their requirements, so that their valuable data can be stored for longer time with easy accessing and manipulation of the same.
+The “Medical shop billing system” has been developed to override the problems prevailing in the practicing manual system. This program is supported to eliminate and in some cases reduce the hardships faced by this existing system. The purpose of the Medical shop billing system is to automate the existing manual system with the help of computerized equipments and full-fledged computer software, fulfilling their requirements, so that their valuable data can be stored for a longer time with easy accessing and manipulation of the same.
 
 # Aim 
 Security of data, ensure data accuracy, minimize manual data entry, greater efficiency, better service, user friendly and interactive, minimum time required.
