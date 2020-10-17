@@ -9,8 +9,11 @@ Security of data, ensure data accuracy, minimize manual data entry, greater effi
 
 # Functionalities 
 a. provides the searching facilities based on various factors, such as medical shop stocks, inventory.
+
 b. It tracks all the information of medicines, sells, company, etc.
+
 c. Manage the information of medicines, to increase efficiency of managing the medical shop, medicines, it deals with monitoring the information  and transactions of the shop.
+
 d. Editing, adding and updating of record sis improved which results in proper resource management of medical shop data.
 
 
